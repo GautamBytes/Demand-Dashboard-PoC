@@ -1,4 +1,3 @@
-```markdown
 # DMND Pool Transaction Dashboard
 
 A proof‑of‑concept Stratum V2 dashboard that lets Bitcoin miners pick their own mempool transactions for job declaration. Built with Rust/Axum backend and React/MUI frontend.
@@ -24,7 +23,6 @@ A proof‑of‑concept Stratum V2 dashboard that lets Bitcoin miners pick thei
 ## 📁 Directory Structure
 
 ```
-.
 |── Cargo.toml
 |── Cargo.lock
 |── src/
