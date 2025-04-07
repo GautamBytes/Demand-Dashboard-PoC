@@ -69,7 +69,7 @@ A proof‑of‑concept Stratum V2 dashboard that lets Bitcoin miners pick thei
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<you>/dmnd-pool-dashboard.git
+git clone https://github.com/GautamBytes/Demand-Dashboard-PoC.git
 cd dmnd-pool-dashboard
 ```
 
