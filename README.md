@@ -2,6 +2,10 @@
 
 A proof‑of‑concept Stratum V2 dashboard that lets Bitcoin miners pick their own mempool transactions for job declaration. Built with Rust/Axum backend and React/MUI frontend.
 
+## Demo Video
+
+https://drive.google.com/file/d/1ffVXOpGIIcCobQZDUJGWM6wffRJejt_R/view?usp=sharing
+
 ## 🚀 Key Features
 
 - **Testnet Mempool Feed**  
