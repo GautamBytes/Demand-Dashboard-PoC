@@ -17,7 +17,7 @@
     "@mui/x-data-grid": "^6.20.4",
     "@types/react": "^18.2.0",
     "@types/react-toastify": "^4.0.2",
-    "axios": "^1.8.4",
+    "axios": "^1.12.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-grid-system": "^8.2.1",
